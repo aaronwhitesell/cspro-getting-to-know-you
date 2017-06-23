@@ -23,5 +23,5 @@ File=.\getting-to-know-you.fmf
 [Dictionary Types]
 Dict-Type=.\getting-to-know-you.dcf,Input,.\getting-to-know-you.fmf
 [Sync]
-Server=http://csweb.teleyah.com/api
+Server=http://www.aaronwhitesell.com/csweb/api
 Direction=Both
