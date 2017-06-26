@@ -8,7 +8,7 @@ ENG=English
 Field=GETTING_TO_KNOW_YOU_DICT.COUNTRY
 ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
 ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue128;}
-ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1
 ENG=\pard\cf1\fs24 What country are you from?\cf2\par
 ENG=}
 
@@ -16,7 +16,7 @@ ENG=}
 Field=GETTING_TO_KNOW_YOU_DICT.EDUCATION_TRAINING
 ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
 ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue128;}
-ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1
 ENG=\pard\cf1\fs24 What was your primary area of study at school?\cf2\par
 ENG=}
 
@@ -24,23 +24,23 @@ ENG=}
 Field=GETTING_TO_KNOW_YOU_DICT.FAVORITE_FOOD
 ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
 ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue128;}
-ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1
 ENG=\pard\cf1\fs24 What is your favorite food?\cf2\par
 ENG=}
 
 [QUESTION]
 Field=GETTING_TO_KNOW_YOU_DICT.FIRST_AND_LAST_NAME
 ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
-ENG={\colortbl ;\red0\green0\blue128;\red0\green0\blue0;}
+ENG={\colortbl ;\red0\green0\blue0;}
 ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
-ENG=\pard\cf1\fs24 What is your first and last name?\cf2\fs19\par
+ENG=\pard\cf1\fs24 What is your first and last name?\fs19\par
 ENG=}
 
 [QUESTION]
 Field=GETTING_TO_KNOW_YOU_DICT.LANGUAGES
 ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
 ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue255;\red0\green128\blue0;\red0\green0\blue128;}
-ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1
 ENG=\pard\cf1\fs24 Which languages do you speak?\par
 ENG=\par
 ENG=\cf2\i (Select all that apply)\cf3\i0\par
@@ -51,7 +51,7 @@ ENG=}
 Field=GETTING_TO_KNOW_YOU_DICT.SUIT_AND_TIE
 ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
 ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue128;}
-ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
+ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1
 ENG=\pard\cf1\fs24 Do you normally wear a suit and tie to work?\cf2\par
 ENG=}
 
@@ -60,6 +60,6 @@ Field=GETTING_TO_KNOW_YOU_DICT.WEEKEND_ACTIVITY
 ENG={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
 ENG={\colortbl ;\red0\green0\blue0;\red0\green0\blue128;}
 ENG={\*\generator Riched20 10.0.15063}\viewkind4\uc1 
-ENG=\pard\cf1\fs24 What do you for fun on weekends?\cf2\par
+ENG=\pard\cf1\fs24 What do you do for fun on weekends?\cf2\par
 ENG=}
 
